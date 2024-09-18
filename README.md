@@ -4,6 +4,20 @@
 Mouse using handtracking through MediaPipe and CV2   
 My first project so any feedback would be greatly appreciated   
 
+## Controls:
+### Mouse Controls:
+Mouse: Open palm.
+Clicking: Pointer finger halfway down: Left Click. Middle finger down: Right Click.
+Scrolling: Scroll up: Only thumb up. Scroll down: Only Pointer up: Scroll up.
+### Media Controls:
+- Play/Pause: Cross pointer finger below the first knuckle of thumb.
+- Volume:
+  * Volume up: Only pointer and middle finger up.
+  * Volume down: Only thumb and pointer up.
+- Skip/Previous track:
+    * Previous track: Only pinky up.
+    * Next track: Only thumb and pinky up.
+
 ## Requirements:
 Python   
 Open CV2   
